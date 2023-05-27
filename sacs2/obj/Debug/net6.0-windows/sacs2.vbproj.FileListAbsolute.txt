@@ -1,0 +1,136 @@
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.AssemblyReference.cache
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.GenerateResource.cache
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfo.vb
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\sacs2\sacs2\bin\Debug\net6.0-windows\sacs2.exe
+C:\Users\Rick\source\repos\sacs2\sacs2\bin\Debug\net6.0-windows\sacs2.deps.json
+C:\Users\Rick\source\repos\sacs2\sacs2\bin\Debug\net6.0-windows\sacs2.runtimeconfig.json
+C:\Users\Rick\source\repos\sacs2\sacs2\bin\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2\bin\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\sacs2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CopyComplete
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\refint\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.genruntimeconfig.cache
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\ref\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2\obj\Debug\net6.0-windows\sacs2.Form1.resources
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\bin\Debug\net6.0-windows\sacs2.exe
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\bin\Debug\net6.0-windows\sacs2.deps.json
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\bin\Debug\net6.0-windows\sacs2.runtimeconfig.json
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\bin\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\bin\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.AssemblyReference.cache
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.Form1.resources
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.GenerateResource.cache
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfo.vb
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CopyComplete
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\refint\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\sacs2.genruntimeconfig.cache
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\sacs2\obj\Debug\net6.0-windows\ref\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\bin\Debug\net6.0-windows\sacs2.exe
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\bin\Debug\net6.0-windows\sacs2.deps.json
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\bin\Debug\net6.0-windows\sacs2.runtimeconfig.json
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\bin\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\bin\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.AssemblyReference.cache
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.Form1.resources
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.GenerateResource.cache
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfo.vb
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CopyComplete
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\refint\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\sacs2.genruntimeconfig.cache
+C:\Users\Rick\source\repos\sacs2\sacs2-working search and io\working 2\sacs2\obj\Debug\net6.0-windows\ref\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\bin\Debug\net6.0-windows\sacs2.exe
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\bin\Debug\net6.0-windows\sacs2.deps.json
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\bin\Debug\net6.0-windows\sacs2.runtimeconfig.json
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\bin\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\bin\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.AssemblyReference.cache
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.Form1.resources
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.GenerateResource.cache
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfo.vb
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CopyComplete
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\refint\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\sacs2.genruntimeconfig.cache
+C:\Users\Rick\source\repos\sacs2\github importing to textbox2 working\sacs2\obj\Debug\net6.0-windows\ref\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\good\sacs2\bin\Debug\net6.0-windows\sacs2.exe
+C:\Users\Rick\source\repos\sacs2\good\sacs2\bin\Debug\net6.0-windows\sacs2.deps.json
+C:\Users\Rick\source\repos\sacs2\good\sacs2\bin\Debug\net6.0-windows\sacs2.runtimeconfig.json
+C:\Users\Rick\source\repos\sacs2\good\sacs2\bin\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\good\sacs2\bin\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\good\sacs2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.AssemblyReference.cache
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.Form1.resources
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.GenerateResource.cache
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfo.vb
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CopyComplete
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\refint\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.genruntimeconfig.cache
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\ref\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\good\sacs2\obj\Debug\net6.0-windows\sacs2.CreditsForm.resources
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\bin\Debug\net6.0-windows\sacs2.exe
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\bin\Debug\net6.0-windows\sacs2.deps.json
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\bin\Debug\net6.0-windows\sacs2.runtimeconfig.json
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\bin\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\bin\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.AssemblyReference.cache
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.CreditsForm.resources
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.Form1.resources
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.GenerateResource.cache
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfo.vb
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CopyComplete
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\refint\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\sacs2.genruntimeconfig.cache
+C:\Users\Rick\source\repos\sacs2\perfect\sacs2\obj\Debug\net6.0-windows\ref\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.AssemblyReference.cache
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.CreditsForm.resources
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.Form1.resources
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.GenerateResource.cache
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.AssemblyInfo.vb
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\refint\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\bin\Debug\net6.0-windows\sacs2.exe
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\bin\Debug\net6.0-windows\sacs2.deps.json
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\bin\Debug\net6.0-windows\sacs2.runtimeconfig.json
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\bin\Debug\net6.0-windows\sacs2.dll
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\bin\Debug\net6.0-windows\sacs2.pdb
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.vbproj.CopyComplete
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\sacs2.genruntimeconfig.cache
+C:\Users\Rick\source\repos\sacs2\Switch Cheat Companion\sacs2\obj\Debug\net6.0-windows\ref\sacs2.dll
